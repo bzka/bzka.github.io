@@ -9,12 +9,12 @@ in the upcoming weeks ill host this site on my own domain and build the site int
 
 I will also update the site on the development of my game. 
 
-# Header 1
+# About Bz?
 
 Hello, I am BunZoot (bz) 
 chronic internet user 
 no moral compass 
 
-# Header 2 
+# Future
 This is the end of the road for now. 
 more will come. 
