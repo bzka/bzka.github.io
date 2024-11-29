@@ -11,5 +11,23 @@
   </head>
 
   <body>
+
+    <header>
+      <div class="container">
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+          <a href="https://www.github.com/bzka" class="btn btn-github" style="margin-left: -20px;"><span class="icon"></span>./bunzoot</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
   </body>
 </html>
