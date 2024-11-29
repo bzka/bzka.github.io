@@ -11,9 +11,7 @@ I will also update the site on the development of my game.
 
 # About Bz?
 
-Hello, I am BunZoot (bz) 
-chronic internet user 
-no moral compass 
+Hello, I am BunZoot (bz), Real Royo
 
 # Future
 This is the end of the road for now. 
