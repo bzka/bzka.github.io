@@ -3,16 +3,16 @@ BunZoot / BZKA / BZ
 
 [Trash Promo](./another-page.html).
 
-im just going to use this site to waffle and update anyone who gives a fuck what im doing.
-
-in the upcoming weeks ill host this site on my own domain and build the site into something enjoyed by everyone. 
-
-I will also update the site on the development of my game. 
+So, I'm planning to use this site to share updates about what I'm working on.
+In the next few weeks, I'll be moving the site to my own domain and making some improvements to make it more enjoyable for everyone. 
+Additionally, I'll be posting updates about the development of my game. 
+That's pretty much it for now; more updates to come soon!
 
 # About Bz?
 
-Hello, I am BunZoot (bz), Real Royo
+i am bunzoot but im sure you gathered that
 
 # Future
-This is the end of the road for now. 
-more will come. 
+. proper website
+. homeostasis /25
+. (REDACTED)
